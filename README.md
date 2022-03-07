@@ -8,12 +8,19 @@ HUD I'm using it BudHud
 BudHud customization:
 
 bh_chat_lowerleft
+
 bh_crosshairs
+
 bh_crosshairs_tf2crosshairs
+
 bh_menu_hidegif
+
 bh_player_transparentviewmodels
+
 bh_uber_largeuberpercentage
+
 bh_uber_longchargemeter
+
 bh_uber_percentagenearcrosshair
 
 
