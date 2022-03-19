@@ -33,3 +33,6 @@ bh_crosshairs has my crosshair (green medium sized dot)
 two background files goes to "Steam\steamapps\common\Team Fortress 2\tf\custom\budhud\materials\console" (if you use budhud)
 
 launch options: -nostartupsound -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
+
+Sensitivity: 4
+Raw input enabled
